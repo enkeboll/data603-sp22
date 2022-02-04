@@ -17,7 +17,8 @@ def main(url):
     response.encoding = response.apparent_encoding
 
     # Text of the actual book starts in the text file after the following string
-    raw_text = response.text.split('*** START OF THE PROJECT GUTENBERG EBOOK WAR AND PEACE ***')[1]
+    raw_text = response.text.split('*** START OF THE PROJECT GUTENBERG EBOOK WAR AND PEACE ***')[1]\
+        .split('*** END OF THE PROJECT GUTENBERG EBOOK WAR AND PEACE ***')[0]
     
     # Remove punctuation and split the text into a list of words
     text_no_punctuation = remove_punctuation(raw_text)
