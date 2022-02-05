@@ -14,14 +14,12 @@ url = "https://www.gutenberg.org/files/2600/2600-0.txt"
 file = urllib.request.urlopen(url)
 uniqwords = {}
 #will hold all the unique words
-numWords = 0
 for line in file:
   #decoded_line = line.decode("utf-8")
 	#print(decoded_line)
   #These were used to help me make sure I could grab the text line by line
   words = line.split()
-  for word in words:uniqwords.setdefault(word, 0)
-  for word in sorted(uniqwords.keys()):
-    numWords = numWords + 1
-print("There are ", numWords, "number of unique words.")
+  for word in words:
+    uniqwords.setdefault(word, 0)
+print("There are", len(uniqwords), "unique words.")
 
