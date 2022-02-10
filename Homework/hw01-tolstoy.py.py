@@ -100,7 +100,7 @@ words = [i for i in words if not i.isdigit()]
 
 unique_words = set(words)   #setting == words [ list we just cleaned]
 unique_word_count = len(unique_words) 
-print(unique_word_count)
+print("The number of unique words in the book is:", unique_word_count)
 
 
 # In[ ]:
