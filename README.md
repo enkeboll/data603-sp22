@@ -2,6 +2,9 @@
 
 # Data 603: Platforms for Big Data Processing
 
+HERE IS A CHANGE
+
+
 Instructor: Andy Enkeboll
 
 Email: [enkeboll@umbc.edu](mailto:enkeboll@umbc.edu)  
