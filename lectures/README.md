@@ -5,3 +5,4 @@
 | 3 | 2022-02-17 | [MapReduce & Cloud Computing](https://umbc.webex.com/umbc/ldr.php?RCID=e938ca1c5fb8f740f1293937b261946d) |
 | 4 | 2022-02-28 | [Spark & RDDs](https://umbc.webex.com/umbc/ldr.php?RCID=131693545b39e139f84d8d8223db713a) |
 | 5 | 2022-03-03 | [Spark DataFrames](https://umbc.webex.com/recordingservice/sites/umbc/recording/fd27b2a07d7d103abfff0050568f95d3/playback) |
+| 6 | 2022-03-10 | [Spark SQL](https://umbc.webex.com/umbc/ldr.php?RCID=4d79766dfa9c1310b8631e0528740a8c)
