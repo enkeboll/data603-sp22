@@ -8,4 +8,4 @@
 | 6 | 2022-03-10 | [Spark SQL](https://umbc.webex.com/umbc/ldr.php?RCID=4d79766dfa9c1310b8631e0528740a8c)
 | 7 | 2022-03-17 | [Spark Streaming 1](https://umbc.webex.com/umbc/ldr.php?RCID=9075a7c09f5cee3d4ec1b2e32304e3a3)
 | 8 | 2022-03-24 | SPRING BREAK |
-| 9 | 2022-03-31 | Spark Streaming 2 - Kafka |
+| 9 | 2022-03-31 | [Spark Streaming 2 - Kafka](https://umbc.webex.com/umbc/ldr.php?RCID=8cab8c4e6301c98f43f8feb6ebd7ce1a) |
