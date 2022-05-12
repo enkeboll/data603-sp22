@@ -66,17 +66,24 @@ Collaborative Filtering is commonly used for recommender systems. It tackles the
 
 Step 1 : Loading the Netflix data on Spark. Installing and Importing all the relevant libraries.
 
-![Screen%20Shot%202022-05-05%20at%2012.41.59%20PM.png](attachment:Screen%20Shot%202022-05-05%20at%2012.41.59%20PM.png)
+<p align="center">
+ <img width="555" alt="Screen Shot 2022-05-12 at 2 21 42 PM" src="https://user-images.githubusercontent.com/89950200/168143753-1b000ba2-f1de-443e-9501-c304d4f3dd71.png">
+ </p>
 
 Step 2 : Collecting the data and mounting the data file to Google Collaboratory.
 
-![Screen%20Shot%202022-05-05%20at%2012.48.40%20PM.png](attachment:Screen%20Shot%202022-05-05%20at%2012.48.40%20PM.png)
+<p align="center">
+  <img  height="300" width="590" alt="Screen Shot 2022-05-12 at 1 45 10 PM" src="https://user-images.githubusercontent.com/89950200/168140058-ab448409-9f74-474b-975b-3b1b2c5f4d69.png">
+</p>
 
 Step 3 : Starting the spark kernel :
 
-![Screen%20Shot%202022-05-05%20at%2012.52.08%20PM.png](attachment:Screen%20Shot%202022-05-05%20at%2012.52.08%20PM.png)
+<p align="center">
+<img width="788" alt="Screen Shot 2022-05-12 at 2 22 40 PM" src="https://user-images.githubusercontent.com/89950200/168143223-1b0635be-b6eb-456c-83ac-71997d17884f.png">
+ </p>
 
 Step 4 : Merging all the data files into a single file and reading the data.
+
 
 Step 5 : Creating RDDs (Resilient Distributed Dataset) is a low-level object and are highly efficient
 in performing distributed tasks.
@@ -85,15 +92,19 @@ in performing distributed tasks.
 
 ## Plotting graphs based on ratings distribution:
 
-![Screen%20Shot%202022-05-05%20at%201.19.35%20PM.png](attachment:Screen%20Shot%202022-05-05%20at%201.19.35%20PM.png)
+<p align="center">
+  <img height="300" width="489" alt="Screen Shot 2022-05-05 at 1 19 35 PM" src="https://user-images.githubusercontent.com/89950200/168140530-82b05f76-feaf-4b2d-9dcd-0f6d4b302b13.png">
+">
+</p>
 
-![Screen%20Shot%202022-05-05%20at%201.23.46%20PM.png](attachment:Screen%20Shot%202022-05-05%20at%201.23.46%20PM.png)
+<p align="center">
+  <img width="549" alt="Screen Shot 2022-05-05 at 1 23 46 PM" src="https://user-images.githubusercontent.com/89950200/168140654-cf4533ee-3238-4813-aaf1-8dc164e67372.png">
+</p>
 
 Step 7 : To Validate and perform test splitting for training Machine Learning model and finding best hyper parameter   to find RMSE on test data.
 
-                               (We are using ALS Algorithm here.)
-
-![Screen%20Shot%202022-05-12%20at%2012.28.20%20PM.png](attachment:Screen%20Shot%202022-05-12%20at%2012.28.20%20PM.png)
+                                       (We are using ALS Algorithm here.)
+                               
 
 Step 8 : Now , after finding the best hyper parameter. We are creating a new user to get movie recommendations, with a new user ID .
 
@@ -105,9 +116,13 @@ Step 10 : Recommending top 10 movies to the new user.
 
 Creating visualisation of recommended movies(x-axis) vs movie counts (y-axis).
 
-![Screen%20Shot%202022-05-05%20at%201.42.58%20PM.png](attachment:Screen%20Shot%202022-05-05%20at%201.42.58%20PM.png)
+<p align="center">
+  <img height="300" width="694" alt="Screen Shot 2022-05-05 at 1 42 58 PM" src="https://user-images.githubusercontent.com/89950200/168142518-fcc55d50-4d9f-4c03-964f-57d2bfaa40e5.png">
+</p>
 
-![Screen%20Shot%202022-05-05%20at%201.43.25%20PM.png](attachment:Screen%20Shot%202022-05-05%20at%201.43.25%20PM.png)
+<p align="center">
+  <img height="300"  width="659" alt="Screen Shot 2022-05-05 at 1 43 25 PM" src="https://user-images.githubusercontent.com/89950200/168142619-2190e7ad-24f1-469b-afa4-7f874af46996.png">
+</p>
 
 ## Conclusion and Learnings
 
