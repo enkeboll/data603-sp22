@@ -1,0 +1,38 @@
+<h3 align="center">Research Paper Proposal</h3>
+<h1 align="center">Benefits of Big Data Curation</h1>
+ 
+Gartner defines Big Data as “high volume, high velocity, and high variety information assets that require new forms of processing to enable enhanced decision making, insight discovery and process optimization.” As a result we need to use tools which will consider the factors of big data and will improve decision making and reduce operational inefficiencies. Considering the amount of data being generated rapidly a significant portion of Big Data’s success will depend upon data quality. Data quality can highly impact on the analysis and important decision making problems. 
+Increased amount of new platforms for data creation, as well as the growing availability of open data on the web, along with an increase in the number of data sources within organizations has resulted in an unprecedented volume of data to be managed.Curation of data is the process of preserving its value. By collecting data from various sources, a data curator can create a much more valuable information source when integrating and aggregating it .
+
+<h2> What is Data Curation? </h2>
+
+The data curation is the end-to-end process which includes data quality, data validation, and human-data interaction to ensure data requirement for storage and usage throughout the data lifecycle. In order to increase the usefulness of data, data curation provides methodological and technological data management assistance. Which makes the data curation process a significant step in big data's success.
+
+![Big Data Value Chain](Big_data_value_chain.png)
+
+<h2> Why is Data Curation essential for Big Data? </h2>
+
+Curating data allows people to collect and control the data so that they can make various uses of it. No matter how huge the datasets may be, data curation can help us systematically manage them so that the analysts. It makes the way of managing data very easy and eventually it leads to engaging users, promoting data discovery and analysis. 
+
+-  Before any analysis data is cleaned and then used. That step happens at a very local level. Meaning, considering specific problems statements and cleaning the data according to the related topic will not be helpful to everyone.Data Curation facilitates collecting and controlling the data that all can make use of in their various ways before it is being cleaned for a particular problem. In an organization, data collection, processing, and validation are impossible without Data Curation. Which makes this step very important in big data handling, since managing huge amounts of data from various sources and in various formats can be irritating. 
+
+
+- Artificial Intelligence has made breakthroughs in this past decade. Particularly machine learning and deep learning algorithms have made big steps towards understanding the consumer space. Data curation can help into effective model learning and guide the model to get optimum results. 
+
+- It becomes very easy to maintain the quality of the data if we do the data curation at the initial stage. Considering the volume and variety of big data, one can get lost entirely without Data Curation.
+
+- An enterprise-scale data lake which is a centralized repository of data of many types which enables easy accessibility are generally used in organizations. It can be difficult to locate, evaluate, or utilize data in data lakes since they quickly become swamps of information without data curation.
+
+
+
+
+<h2> Common steps in Data Curation </h2>
+
+
+
+<h2> Sources </h2>
+
+- [Big Data Curation](https://link.springer.com/chapter/10.1007/978-3-319-21569-3_6)
+- [Six of the Best Data Curation Tools](https://medium.com/hackernoon/six-of-the-best-data-curation-tools-in-2019-d26cd2103d57)
+- [The Role of Data Curation in Big Data](https://www.datasciencecentral.com/the-role-of-data-curation-in-big-data/)
+- [DATA-C: Five Steps to Better Data Curation](https://www.infotoday.com/cilmag/mar20/Benzing--DATA-C-Five-Steps-to-Better-Data-Curation.shtml)
